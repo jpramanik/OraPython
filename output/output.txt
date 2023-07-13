@@ -1,0 +1,27 @@
+PS D:\Projects\PythonCode> & C:/anaconda3/python.exe d:/Projects/GitHub/OraPython/OraPython.py
+Oracle Database Connection Sucessfull
+11 Rows Inserted
+Task 10001 has completed
+Task 10035 has not completed
+Task 10093 has not completed
+Task 10104 has not completed
+Task 11001 has not completed
+Task 11025 has not completed
+Task 11027 has completed
+Task 11139 has not completed
+Task 12101 has not completed
+Task 13601 has not completed
+Task 14801 has completed
+11 Rows Returned for SELECT after call to FetchAll
+(1, 'Task 10001', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 1)
+(2, 'Task 10035', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(3, 'Task 10093', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(4, 'Task 10104', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(5, 'Task 11001', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(6, 'Task 11025', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(7, 'Task 11027', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 1)
+(8, 'Task 11139', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(9, 'Task 12101', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(10, 'Task 13601', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 0)
+(11, 'Task 14801', datetime.datetime(2023, 7, 13, 22, 52, 38, 664000), 1)
+PS D:\Projects\PythonCode>
