@@ -1,3 +1,5 @@
+#Code Reference --> https://www.oracle.com/database/technologies/appdev/python/quickstartpythononprem.html 
+import getpass
 import oracledb
 # python -m pip install oracledb
 
